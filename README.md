@@ -7,7 +7,7 @@ Python program to pair a map with live GPS position according to the position of
 - cv2
 
 ## Online tools required:
-- https://geodesyapps.ga.gov.au/grid-coordinate-batch-processing
+- https://geodesyapps.ga.gov.au/grid-coordinate-batch-processing - created by Geoscience Australia, licensed under http://creativecommons.org/licenses/by/4.0/legalcode
 - Mapping software which provides a georeferenced map image (I used Nearmaps for this example).
 - Video editing software (I used OpenShot Video Editor for this example).
 
