@@ -1,5 +1,5 @@
 # GPS_video_creator
-Python program to pair a map with live GPS position according to the position of a camera used for the video. Useful in particular for shallow underwater surveys from a kayak. The example given is for a breakwall.
+Python program to pair a map with live GPS position according to the position of a camera used for the video. Works in a Jupyter Notebook using the Anaconda Distribution. Useful in particular for shallow underwater surveys from a kayak. The example given is for a breakwall.
 
 ## Python libraries required:
 - gpxpy
