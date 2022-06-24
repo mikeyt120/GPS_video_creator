@@ -15,4 +15,4 @@ Python program to pair a map with live GPS position according to the position of
 - GPS device or smartphone which is waterproof (or inside a waterproof bag).
 - Waterproof camera (e.g. Go Pro)
 - Kayak
-- Camera attachement to Kayak. I've used an adjustable fishing rod holder with an extendable Go Pro pole to allow the Go Pro to be extended below the water. Whatever mount you use you should still tether the camera to the kayak in case it breaks.
+- Camera attachment to Kayak. I've used an adjustable fishing rod holder with an extendable Go Pro pole to allow the Go Pro to be extended below the water. Whatever mount you use you should still tether the camera to the kayak in case it breaks.
