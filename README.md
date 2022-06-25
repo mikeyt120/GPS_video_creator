@@ -26,5 +26,5 @@ https://youtu.be/rxZhXfKvAiQ
 ![alt text](https://github.com/mikeyt120/GPS_video_creator/blob/main/Surf_ski_setup.JPG)
 My surf ski setup.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/mikeyt120/GPS_video_creator/blob/main/Camera_attachment.JPG))
 My camera attachment setup.
