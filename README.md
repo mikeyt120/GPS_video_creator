@@ -23,7 +23,7 @@ https://youtu.be/rxZhXfKvAiQ
 - Kayak
 - Camera attachment to Kayak. I've used an adjustable fishing rod holder with an extendable Go Pro pole to allow the Go Pro to be extended below the water. Whatever mount you use you should still tether the camera to the kayak in case it breaks.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mikeyt120/GPS_video_creator/blob/main/Surf_ski_setup.JPG)
 My surf ski setup.
 
 ![alt text](http://url/to/img.png)
