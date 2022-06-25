@@ -4,6 +4,9 @@ Python program to pair a map with live GPS position according to the position of
 Use this video for the example code given:
 https://drive.google.com/file/d/1cAby1f-P1KL2q0Wc2vz6dh-u_QwbUSV1/view?usp=sharing
 
+Output from example code given:
+https://youtu.be/rxZhXfKvAiQ
+
 ## Python libraries required:
 - gpxpy
 - numpy
