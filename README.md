@@ -31,6 +31,6 @@ My surf ski setup.
 ![alt text](https://github.com/mikeyt120/GPS_video_creator/blob/main/Camera_attachment.JPG)
 My camera attachment setup.
 
-Problems to fix:
+## Problems to fix:
 - time stamp seems to fall behind?
 
